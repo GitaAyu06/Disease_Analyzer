@@ -101,7 +101,7 @@ counts = ct(result)
 count_p = counts['Positive']
 count_n = counts['Negative']
 ```
-10. Show diagram that show Positive" and "Negative" patient proportion
+10. Show diagram that show "Positive" and "Negative" patient proportion
 ```
 slices = [count_p,count_n]
 cols = ['b','c']
